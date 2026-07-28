@@ -1,0 +1,164 @@
+[
+  {
+    "avatar": "545ea4f487a5e0c55f7fa08da2238843",
+    "display_name": "Bennettd33",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312199624605335552",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "189480227318013952"
+  },
+  {
+    "avatar": null,
+    "display_name": "aydinchagal",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312199624605335552",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "728350425736167424"
+  },
+  {
+    "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+    "display_name": "nickvinokour",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312199624605335552",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "Pinball Wizard"
+    },
+    "settings": null,
+    "user_id": "995972933296283648"
+  },
+  {
+    "avatar": "49ab1cb01cdf3218d8af7884d0a894dc",
+    "display_name": "Jettzimmerman",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312199624605335552",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "996057383010910208"
+  },
+  {
+    "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+    "display_name": "jcars1",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312199624605335552",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": "Swifites"
+    },
+    "settings": null,
+    "user_id": "996072366117531648"
+  },
+  {
+    "avatar": "b319fdf8b7b5b0359d3c78622ba4d70c",
+    "display_name": "maxberman",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312199624605335552",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/a137aa946fb4182b8e6f169649c521b0.jpg",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "996094171691679744"
+  },
+  {
+    "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
+    "display_name": "jgerstein25",
+    "is_bot": false,
+    "is_owner": true,
+    "league_id": "1312199624605335552",
+    "metadata": {
+      "allow_pn": "on",
+      "archived": "off",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1003494476792352768"
+  },
+  {
+    "avatar": "b3338675f635c2c1f42b469621d38ec6",
+    "display_name": "jacksongertner",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312199624605335552",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1004438913294970880"
+  },
+  {
+    "avatar": "f0edbf4278f53f9425db175073df6584",
+    "display_name": "jboneface",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312199624605335552",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1004441806446092288"
+  },
+  {
+    "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
+    "display_name": "benassa",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312199624605335552",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "off",
+      "mention_pn": "on",
+      "team_name": "Band$ Emeka Dance"
+    },
+    "settings": null,
+    "user_id": "1004457986938478592"
+  },
+  {
+    "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+    "display_name": "aidanwaldman",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312199624605335552",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1004568537630887936"
+  },
+  {
+    "avatar": "8eb8f8bf999945d523f2c4033f70473e",
+    "display_name": "mattyp2424",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312199624605335552",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1004571617604800512"
+  }
+]
