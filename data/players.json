@@ -25,8 +25,8 @@
     ],
     "first_name": "Chris",
     "full_name": "Chris Rodriguez",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Foot",
+    "injury_status": "Questionable",
     "last_name": "Rodriguez",
     "player_id": "10219",
     "position": "RB",
@@ -719,24 +719,6 @@
     "team": "MIN",
     "years_exp": 2
   },
-  "12457": {
-    "age": 22,
-    "college": "Texas",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "Jaydon",
-    "full_name": "Jaydon Blue",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Blue",
-    "player_id": "12457",
-    "position": "RB",
-    "search_rank": 189,
-    "status": "Active",
-    "team": "DAL",
-    "years_exp": 1
-  },
   "12469": {
     "age": 21,
     "college": "Tennessee",
@@ -1286,8 +1268,8 @@
     ],
     "first_name": "Kyle",
     "full_name": "Kyle Monangai",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Undisclosed",
+    "injury_status": "Questionable",
     "last_name": "Monangai",
     "player_id": "12534",
     "position": "RB",
@@ -1312,24 +1294,6 @@
     "search_rank": 184,
     "status": "Active",
     "team": "DET",
-    "years_exp": 1
-  },
-  "12538": {
-    "age": 24,
-    "college": "Missouri",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Brady",
-    "full_name": "Brady Cook",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Cook",
-    "player_id": "12538",
-    "position": "QB",
-    "search_rank": 999,
-    "status": "Active",
-    "team": "NYJ",
     "years_exp": 1
   },
   "12544": {
@@ -1934,8 +1898,8 @@
     ],
     "first_name": "Eli",
     "full_name": "Eli Stowers",
-    "injury_body_part": "Lower Body",
-    "injury_status": "Questionable",
+    "injury_body_part": null,
+    "injury_status": null,
     "last_name": "Stowers",
     "player_id": "13349",
     "position": "TE",
@@ -2123,24 +2087,6 @@
     "status": "Active",
     "team": "SF",
     "years_exp": 12
-  },
-  "2307": {
-    "age": 32,
-    "college": "Oregon",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Marcus",
-    "full_name": "Marcus Mariota",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Mariota",
-    "player_id": "2307",
-    "position": "QB",
-    "search_rank": 400,
-    "status": "Active",
-    "team": "WAS",
-    "years_exp": 11
   },
   "2449": {
     "age": 32,
@@ -2803,9 +2749,9 @@
     "last_name": "Samuel",
     "player_id": "5872",
     "position": "WR",
-    "search_rank": 79,
+    "search_rank": 150,
     "status": "Active",
-    "team": null,
+    "team": "SF",
     "years_exp": 7
   },
   "5892": {
@@ -3204,24 +3150,6 @@
     "team": "MIN",
     "years_exp": 6
   },
-  "7090": {
-    "age": 28,
-    "college": "Tulane",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Darnell",
-    "full_name": "Darnell Mooney",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Mooney",
-    "player_id": "7090",
-    "position": "WR",
-    "search_rank": 194,
-    "status": "Active",
-    "team": "NYG",
-    "years_exp": 6
-  },
   "7523": {
     "age": 26,
     "college": "Clemson",
@@ -3402,24 +3330,6 @@
     "team": "HOU",
     "years_exp": 5
   },
-  "7571": {
-    "age": 26,
-    "college": "Minnesota",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Rashod",
-    "full_name": "Rashod Bateman",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Bateman",
-    "player_id": "7571",
-    "position": "WR",
-    "search_rank": 203,
-    "status": "Active",
-    "team": "BAL",
-    "years_exp": 5
-  },
   "7588": {
     "age": 26,
     "college": "North Carolina",
@@ -3482,8 +3392,8 @@
     ],
     "first_name": "Rhamondre",
     "full_name": "Rhamondre Stevenson",
-    "injury_body_part": "Undisclosed",
-    "injury_status": "Questionable",
+    "injury_body_part": null,
+    "injury_status": null,
     "last_name": "Stevenson",
     "player_id": "7611",
     "position": "RB",
@@ -3924,6 +3834,24 @@
     "team": "MIA",
     "years_exp": 4
   },
+  "8180": {
+    "age": 27,
+    "college": "Michigan State",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Jalen",
+    "full_name": "Jalen Nailor",
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Nailor",
+    "player_id": "8180",
+    "position": "WR",
+    "search_rank": 167,
+    "status": "Active",
+    "team": "LV",
+    "years_exp": 4
+  },
   "8183": {
     "age": 26,
     "college": "Iowa State",
@@ -4058,8 +3986,8 @@
     ],
     "first_name": "Jahmyr",
     "full_name": "Jahmyr Gibbs",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Back",
+    "injury_status": "Questionable",
     "last_name": "Gibbs",
     "player_id": "9221",
     "position": "RB",
@@ -4167,7 +4095,7 @@
     "first_name": "Tucker",
     "full_name": "Tucker Kraft",
     "injury_body_part": "Knee - ACL",
-    "injury_status": "PUP",
+    "injury_status": "Questionable",
     "last_name": "Kraft",
     "player_id": "9484",
     "position": "TE",
@@ -4498,24 +4426,6 @@
     "search_rank": null,
     "status": null,
     "team": "BUF",
-    "years_exp": null
-  },
-  "CAR": {
-    "age": null,
-    "college": null,
-    "fantasy_positions": [
-      "DEF"
-    ],
-    "first_name": "Carolina",
-    "full_name": null,
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Panthers",
-    "player_id": "CAR",
-    "position": "DEF",
-    "search_rank": null,
-    "status": null,
-    "team": "CAR",
     "years_exp": null
   },
   "CHI": {
