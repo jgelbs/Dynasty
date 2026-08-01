@@ -156,7 +156,7 @@
     "last_name": "Aubrey",
     "player_id": "11533",
     "position": "K",
-    "search_rank": 999,
+    "search_rank": 110,
     "status": "Active",
     "team": "DAL",
     "years_exp": 3
@@ -174,7 +174,7 @@
     "last_name": "Bates",
     "player_id": "11539",
     "position": "K",
-    "search_rank": 999,
+    "search_rank": 173,
     "status": "Active",
     "team": "DET",
     "years_exp": 3
@@ -714,7 +714,7 @@
     "last_name": "Reichard",
     "player_id": "11792",
     "position": "K",
-    "search_rank": 999,
+    "search_rank": 174,
     "status": "Active",
     "team": "MIN",
     "years_exp": 2
@@ -900,7 +900,7 @@
     "years_exp": 1
   },
   "12501": {
-    "age": 22,
+    "age": 23,
     "college": "Texas",
     "fantasy_positions": [
       "WR"
@@ -1232,8 +1232,8 @@
     ],
     "first_name": "Travis",
     "full_name": "Travis Hunter",
-    "injury_body_part": "Knee",
-    "injury_status": "Questionable",
+    "injury_body_part": null,
+    "injury_status": null,
     "last_name": "Hunter",
     "player_id": "12530",
     "position": "WR",
@@ -1917,12 +1917,12 @@
     "first_name": "Chris",
     "full_name": "Chris Brazzell",
     "injury_body_part": "Knee",
-    "injury_status": "Out",
+    "injury_status": "IR",
     "last_name": "Brazzell",
     "player_id": "13353",
     "position": "WR",
     "search_rank": 202,
-    "status": "Active",
+    "status": "Inactive",
     "team": "CAR",
     "years_exp": 0
   },
@@ -1962,6 +1962,24 @@
     "team": "WAS",
     "years_exp": 0
   },
+  "13413": {
+    "age": 23,
+    "college": "Cincinnati",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Cyrus",
+    "full_name": "Cyrus Allen",
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Allen",
+    "player_id": "13413",
+    "position": "WR",
+    "search_rank": 9999999,
+    "status": "Active",
+    "team": "KC",
+    "years_exp": 0
+  },
   "13414": {
     "age": 24,
     "college": "Indiana",
@@ -1993,7 +2011,7 @@
     "last_name": "Stribling",
     "player_id": "13417",
     "position": "WR",
-    "search_rank": 202,
+    "search_rank": 150,
     "status": "Active",
     "team": "SF",
     "years_exp": 0
@@ -2047,7 +2065,7 @@
     "last_name": "Boswell",
     "player_id": "1945",
     "position": "K",
-    "search_rank": 999,
+    "search_rank": 151,
     "status": "Active",
     "team": "PIT",
     "years_exp": 12
@@ -2119,7 +2137,7 @@
     "last_name": "Myers",
     "player_id": "2747",
     "position": "K",
-    "search_rank": 999,
+    "search_rank": 132,
     "status": "Active",
     "team": "SEA",
     "years_exp": 11
@@ -2245,7 +2263,7 @@
     "last_name": "Fairbairn",
     "player_id": "3451",
     "position": "K",
-    "search_rank": 999,
+    "search_rank": 155,
     "status": "Active",
     "team": "HOU",
     "years_exp": 10
@@ -2353,7 +2371,7 @@
     "last_name": "Elliott",
     "player_id": "4195",
     "position": "K",
-    "search_rank": 999,
+    "search_rank": 221,
     "status": "Active",
     "team": "PHI",
     "years_exp": 9
@@ -2425,7 +2443,7 @@
     "last_name": "Butker",
     "player_id": "4227",
     "position": "K",
-    "search_rank": 999,
+    "search_rank": 155,
     "status": "Active",
     "team": "KC",
     "years_exp": 9
@@ -2839,7 +2857,7 @@
     "last_name": "McLaughlin",
     "player_id": "6650",
     "position": "K",
-    "search_rank": 999,
+    "search_rank": 198,
     "status": "Active",
     "team": "TB",
     "years_exp": 7
@@ -3415,7 +3433,7 @@
     "last_name": "McPherson",
     "player_id": "7839",
     "position": "K",
-    "search_rank": 999,
+    "search_rank": 206,
     "status": "Active",
     "team": "CIN",
     "years_exp": 5
@@ -3937,7 +3955,7 @@
     "last_name": "Dicker",
     "player_id": "8259",
     "position": "K",
-    "search_rank": 999,
+    "search_rank": 129,
     "status": "Active",
     "team": "LAC",
     "years_exp": 4
@@ -3958,24 +3976,6 @@
     "search_rank": 112,
     "status": "Active",
     "team": "MIN",
-    "years_exp": 4
-  },
-  "8676": {
-    "age": 27,
-    "college": "Weber State",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Rashid",
-    "full_name": "Rashid Shaheed",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Shaheed",
-    "player_id": "8676",
-    "position": "WR",
-    "search_rank": 150,
-    "status": "Active",
-    "team": "SEA",
     "years_exp": 4
   },
   "9221": {
