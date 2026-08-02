@@ -332,7 +332,9 @@
       "BUF",
       "CHI"
     ],
-    "reserve": null,
+    "reserve": [
+      "11638"
+    ],
     "roster_id": 6,
     "settings": {
       "fpts": 0,
