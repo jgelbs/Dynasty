@@ -125,24 +125,6 @@
     "team": "DET",
     "years_exp": 3
   },
-  "11435": {
-    "age": 27,
-    "college": "Fort Valley State",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "Emanuel",
-    "full_name": "Emanuel Wilson",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Wilson",
-    "player_id": "11435",
-    "position": "RB",
-    "search_rank": 161,
-    "status": "Active",
-    "team": "SEA",
-    "years_exp": 3
-  },
   "11533": {
     "age": 31,
     "college": "Notre Dame",
@@ -285,6 +267,42 @@
     "search_rank": 9,
     "status": "Active",
     "team": "WAS",
+    "years_exp": 2
+  },
+  "11571": {
+    "age": 24,
+    "college": "South Dakota State",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Isaiah",
+    "full_name": "Isaiah Davis",
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Davis",
+    "player_id": "11571",
+    "position": "RB",
+    "search_rank": 999,
+    "status": "Active",
+    "team": "NYJ",
+    "years_exp": 2
+  },
+  "11575": {
+    "age": 26,
+    "college": "Kentucky",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Ray",
+    "full_name": "Ray Davis",
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Davis",
+    "player_id": "11575",
+    "position": "RB",
+    "search_rank": 167,
+    "status": "Active",
+    "team": "BUF",
     "years_exp": 2
   },
   "11576": {
@@ -457,8 +475,8 @@
     ],
     "first_name": "Jalen",
     "full_name": "Jalen McMillan",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Calf",
+    "injury_status": "Questionable",
     "last_name": "McMillan",
     "player_id": "11618",
     "position": "WR",
@@ -881,24 +899,6 @@
     "team": "LAC",
     "years_exp": 1
   },
-  "12497": {
-    "age": 23,
-    "college": "Colorado State",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Tory",
-    "full_name": "Tory Horton",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Horton",
-    "player_id": "12497",
-    "position": "WR",
-    "search_rank": 199,
-    "status": "Active",
-    "team": "SEA",
-    "years_exp": 1
-  },
   "12501": {
     "age": 23,
     "college": "Texas",
@@ -1297,7 +1297,7 @@
     "years_exp": 1
   },
   "12544": {
-    "age": 21,
+    "age": 22,
     "college": "Syracuse",
     "fantasy_positions": [
       "RB"
@@ -2870,8 +2870,8 @@
     ],
     "first_name": "Tua",
     "full_name": "Tua Tagovailoa",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Back",
+    "injury_status": "Questionable",
     "last_name": "Tagovailoa",
     "player_id": "6768",
     "position": "QB",
