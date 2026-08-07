@@ -60,7 +60,12 @@
     "co_owners": null,
     "keepers": null,
     "league_id": "1312199624605335552",
-    "metadata": null,
+    "metadata": {
+      "p_nick_11560": "Captain",
+      "p_nick_4046": "Captain",
+      "p_nick_7553": "Captain",
+      "p_nick_9226": "Captain"
+    },
     "owner_id": "996057383010910208",
     "player_map": null,
     "players": [
@@ -528,7 +533,7 @@
       "7569",
       "8110",
       "5045",
-      "0",
+      "7543",
       "6770",
       "1945",
       "LAR"
@@ -615,10 +620,9 @@
       "6786",
       "7002",
       "7567",
+      "7571",
       "8138",
       "8148",
-      "8154",
-      "9504",
       "96",
       "9754",
       "DEN"

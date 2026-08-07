@@ -547,8 +547,8 @@
     ],
     "first_name": "Xavier",
     "full_name": "Xavier Legette",
-    "injury_body_part": "Upper Body",
-    "injury_status": "Questionable",
+    "injury_body_part": null,
+    "injury_status": null,
     "last_name": "Legette",
     "player_id": "11626",
     "position": "WR",
@@ -2665,7 +2665,7 @@
     "years_exp": 7
   },
   "5849": {
-    "age": 28,
+    "age": 29,
     "college": "Oklahoma",
     "fantasy_positions": [
       "QB"
@@ -2690,8 +2690,8 @@
     ],
     "first_name": "Josh",
     "full_name": "Josh Jacobs",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Groin",
+    "injury_status": "Questionable",
     "last_name": "Jacobs",
     "player_id": "5850",
     "position": "RB",
@@ -3097,7 +3097,7 @@
     "years_exp": 6
   },
   "6904": {
-    "age": 27,
+    "age": 28,
     "college": "Oklahoma",
     "fantasy_positions": [
       "QB"
@@ -3346,6 +3346,24 @@
     "search_rank": 19,
     "status": "Active",
     "team": "HOU",
+    "years_exp": 5
+  },
+  "7571": {
+    "age": 26,
+    "college": "Minnesota",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Rashod",
+    "full_name": "Rashod Bateman",
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Bateman",
+    "player_id": "7571",
+    "position": "WR",
+    "search_rank": 203,
+    "status": "Active",
+    "team": "BAL",
     "years_exp": 5
   },
   "7588": {
@@ -3760,24 +3778,6 @@
     "search_rank": 19,
     "status": "Active",
     "team": "KC",
-    "years_exp": 4
-  },
-  "8154": {
-    "age": 27,
-    "college": "Alabama",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "Brian",
-    "full_name": "Brian Robinson",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Robinson",
-    "player_id": "8154",
-    "position": "RB",
-    "search_rank": 80,
-    "status": "Active",
-    "team": "ATL",
     "years_exp": 4
   },
   "8155": {
@@ -4210,24 +4210,6 @@
     "search_rank": 187,
     "status": "Active",
     "team": "HOU",
-    "years_exp": 3
-  },
-  "9504": {
-    "age": 24,
-    "college": "LSU",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Kayshon",
-    "full_name": "Kayshon Boutte",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Boutte",
-    "player_id": "9504",
-    "position": "WR",
-    "search_rank": 164,
-    "status": "Active",
-    "team": "NE",
     "years_exp": 3
   },
   "9506": {
