@@ -43,8 +43,8 @@
     ],
     "first_name": "Jayden",
     "full_name": "Jayden Reed",
-    "injury_body_part": "Ankle",
-    "injury_status": "Questionable",
+    "injury_body_part": null,
+    "injury_status": null,
     "last_name": "Reed",
     "player_id": "10222",
     "position": "WR",
@@ -907,8 +907,8 @@
     ],
     "first_name": "Matthew",
     "full_name": "Matthew Golden",
-    "injury_body_part": "Toe",
-    "injury_status": "Questionable",
+    "injury_body_part": null,
+    "injury_status": null,
     "last_name": "Golden",
     "player_id": "12501",
     "position": "WR",
@@ -1477,7 +1477,7 @@
     "years_exp": 0
   },
   "13281": {
-    "age": 21,
+    "age": 22,
     "college": "Arizona State",
     "fantasy_positions": [
       "WR"
@@ -2654,8 +2654,8 @@
     ],
     "first_name": "DK",
     "full_name": "DK Metcalf",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Undisclosed",
+    "injury_status": "Questionable",
     "last_name": "Metcalf",
     "player_id": "5846",
     "position": "WR",
@@ -4166,8 +4166,8 @@
     ],
     "first_name": "Puka",
     "full_name": "Puka Nacua",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Undisclosed",
+    "injury_status": "Questionable",
     "last_name": "Nacua",
     "player_id": "9493",
     "position": "WR",
@@ -4177,7 +4177,7 @@
     "years_exp": 3
   },
   "9500": {
-    "age": 24,
+    "age": 25,
     "college": "North Carolina",
     "fantasy_positions": [
       "WR"
