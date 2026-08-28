@@ -186,6 +186,7 @@
     "players": [
       "11559",
       "11563",
+      "11565",
       "11584",
       "11620",
       "11655",
@@ -201,9 +202,8 @@
       "8112",
       "8137",
       "9484",
-      "9506",
       "9511",
-      "NE",
+      "DEN",
       "PIT"
     ],
     "reserve": null,
@@ -214,8 +214,8 @@
       "losses": 0,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 0,
-      "waiver_position": 9,
+      "waiver_budget_used": 6,
+      "waiver_position": 12,
       "wins": 0
     },
     "starters": [
@@ -277,7 +277,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 48,
-      "waiver_position": 11,
+      "waiver_position": 10,
       "wins": 0
     },
     "starters": [
@@ -404,7 +404,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": -1,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 0
     },
     "starters": [
@@ -464,7 +464,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 0
     },
     "starters": [
