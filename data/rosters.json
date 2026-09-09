@@ -103,7 +103,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 10,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 0
     },
     "starters": [
@@ -217,7 +217,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 6,
-      "waiver_position": 8,
+      "waiver_position": 7,
       "wins": 0
     },
     "starters": [
@@ -228,7 +228,7 @@
       "8137",
       "12518",
       "12519",
-      "9484",
+      "13286",
       "11563",
       "6650",
       "PIT"
@@ -279,7 +279,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 48,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 0
     },
     "starters": [
@@ -289,7 +289,7 @@
       "2133",
       "12514",
       "10236",
-      "13279",
+      "8131",
       "11635",
       "9228",
       "0",
@@ -377,7 +377,6 @@
     "players": [
       "12490",
       "12509",
-      "12521",
       "12545",
       "13281",
       "13293",
@@ -385,6 +384,7 @@
       "13414",
       "3198",
       "5872",
+      "6083",
       "6797",
       "6803",
       "7525",
@@ -409,7 +409,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": -1,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 0
     },
     "starters": [
@@ -422,7 +422,7 @@
       "8228",
       "12490",
       "12545",
-      "0",
+      "6083",
       "LV"
     ],
     "taxi": null
@@ -469,7 +469,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 6,
-      "waiver_position": 11,
+      "waiver_position": 10,
       "wins": 0
     },
     "starters": [
@@ -553,13 +553,13 @@
     "player_map": null,
     "players": [
       "10213",
-      "11539",
       "11575",
       "11631",
+      "11786",
+      "11834",
       "12501",
       "12504",
       "12535",
-      "12536",
       "13294",
       "13405",
       "3214",
@@ -582,8 +582,8 @@
       "losses": 0,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 6,
-      "waiver_position": 7,
+      "waiver_budget_used": 10,
+      "waiver_position": 12,
       "wins": 0
     },
     "starters": [
@@ -596,7 +596,7 @@
       "12501",
       "11631",
       "8183",
-      "11539",
+      "0",
       "BAL"
     ],
     "taxi": null

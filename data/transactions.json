@@ -1,5 +1,118 @@
 [
   {
+    "adds": {
+      "6083": 7
+    },
+    "consenter_ids": [
+      7
+    ],
+    "created": 1788919196746,
+    "creator": "1004571617604800512",
+    "draft_picks": [],
+    "drops": {
+      "12521": 7
+    },
+    "leg": 1,
+    "metadata": null,
+    "roster_ids": [
+      7
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1788919196746,
+    "transaction_id": "1403232452377350144",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
+      "11834": 10
+    },
+    "consenter_ids": [
+      10
+    ],
+    "created": 1788894491059,
+    "creator": "1004441806446092288",
+    "draft_picks": [],
+    "drops": {
+      "12536": 10
+    },
+    "leg": 1,
+    "metadata": {
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    "roster_ids": [
+      10
+    ],
+    "settings": {
+      "seq": 0,
+      "waiver_bid": 3
+    },
+    "status": "complete",
+    "status_updated": 1788915654881,
+    "transaction_id": "1403128829215555584",
+    "type": "waiver",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
+      "11786": 10
+    },
+    "consenter_ids": [
+      10
+    ],
+    "created": 1788894435549,
+    "creator": "1004441806446092288",
+    "draft_picks": [],
+    "drops": {
+      "11539": 10
+    },
+    "leg": 1,
+    "metadata": {
+      "notes": "Your waiver claim was processed successfully!"
+    },
+    "roster_ids": [
+      10
+    ],
+    "settings": {
+      "seq": 1,
+      "waiver_bid": 1
+    },
+    "status": "complete",
+    "status_updated": 1788915654881,
+    "transaction_id": "1403128596385533952",
+    "type": "waiver",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
+      "11834": 10
+    },
+    "consenter_ids": [
+      10
+    ],
+    "created": 1788878435471,
+    "creator": "1004441806446092288",
+    "draft_picks": [],
+    "drops": null,
+    "leg": 1,
+    "metadata": {
+      "notes": "This player was claimed by another owner."
+    },
+    "roster_ids": [
+      10
+    ],
+    "settings": {
+      "seq": 2,
+      "waiver_bid": 0
+    },
+    "status": "failed",
+    "status_updated": 1788915654881,
+    "transaction_id": "1403061487194382336",
+    "type": "waiver",
+    "waiver_budget": []
+  },
+  {
     "adds": null,
     "consenter_ids": [
       3
