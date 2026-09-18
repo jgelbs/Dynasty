@@ -30,7 +30,7 @@
     "last_name": "Rodriguez",
     "player_id": "10219",
     "position": "RB",
-    "search_rank": 125,
+    "search_rank": 127,
     "status": "Active",
     "team": "JAX",
     "years_exp": 3
@@ -138,7 +138,7 @@
     "last_name": "Aubrey",
     "player_id": "11533",
     "position": "K",
-    "search_rank": 91,
+    "search_rank": 90,
     "status": "Active",
     "team": "DAL",
     "years_exp": 3
@@ -174,7 +174,7 @@
     "last_name": "Williams",
     "player_id": "11560",
     "position": "QB",
-    "search_rank": 20,
+    "search_rank": 22,
     "status": "Active",
     "team": "CHI",
     "years_exp": 2
@@ -390,7 +390,7 @@
     "last_name": "Bowers",
     "player_id": "11604",
     "position": "TE",
-    "search_rank": 22,
+    "search_rank": 23,
     "status": "Active",
     "team": "LV",
     "years_exp": 2
@@ -408,7 +408,7 @@
     "last_name": "Washington",
     "player_id": "11610",
     "position": "WR",
-    "search_rank": 177,
+    "search_rank": 178,
     "status": "Active",
     "team": "MIA",
     "years_exp": 2
@@ -570,7 +570,7 @@
     "last_name": "McConkey",
     "player_id": "11635",
     "position": "WR",
-    "search_rank": 34,
+    "search_rank": 36,
     "status": "Active",
     "team": "LAC",
     "years_exp": 2
@@ -624,7 +624,7 @@
     "last_name": "Cousins",
     "player_id": "1166",
     "position": "QB",
-    "search_rank": 269,
+    "search_rank": 270,
     "status": "Active",
     "team": "LV",
     "years_exp": 14
@@ -642,7 +642,7 @@
     "last_name": "Little",
     "player_id": "11786",
     "position": "K",
-    "search_rank": 132,
+    "search_rank": 133,
     "status": "Active",
     "team": "JAX",
     "years_exp": 2
@@ -660,7 +660,7 @@
     "last_name": "Reichard",
     "player_id": "11792",
     "position": "K",
-    "search_rank": 170,
+    "search_rank": 171,
     "status": "Active",
     "team": "MIN",
     "years_exp": 2
@@ -750,7 +750,7 @@
     "last_name": "Skattebo",
     "player_id": "12481",
     "position": "RB",
-    "search_rank": 37,
+    "search_rank": 36,
     "status": "Active",
     "team": "NYG",
     "years_exp": 1
@@ -1255,7 +1255,7 @@
     "last_name": "Shough",
     "player_id": "12545",
     "position": "QB",
-    "search_rank": 89,
+    "search_rank": 88,
     "status": "Active",
     "team": "NO",
     "years_exp": 1
@@ -1273,7 +1273,7 @@
     "last_name": "Mendoza",
     "player_id": "13269",
     "position": "QB",
-    "search_rank": 107,
+    "search_rank": 108,
     "status": "Active",
     "team": "LV",
     "years_exp": 0
@@ -1291,7 +1291,7 @@
     "last_name": "Beck",
     "player_id": "13272",
     "position": "QB",
-    "search_rank": 286,
+    "search_rank": 285,
     "status": "Active",
     "team": "ARI",
     "years_exp": 0
@@ -1341,7 +1341,7 @@
     "first_name": "Omar",
     "full_name": "Omar Cooper",
     "injury_body_part": "Ankle",
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "last_name": "Cooper",
     "player_id": "13276",
     "position": "WR",
@@ -1417,7 +1417,7 @@
     "last_name": "Fields",
     "player_id": "13285",
     "position": "WR",
-    "search_rank": 200,
+    "search_rank": 199,
     "status": "Active",
     "team": "NYG",
     "years_exp": 0
@@ -1507,7 +1507,7 @@
     "last_name": "Lane",
     "player_id": "13293",
     "position": "WR",
-    "search_rank": 146,
+    "search_rank": 148,
     "status": "Inactive",
     "team": "BAL",
     "years_exp": 0
@@ -1597,7 +1597,7 @@
     "last_name": "Randall",
     "player_id": "13302",
     "position": "RB",
-    "search_rank": 409,
+    "search_rank": 407,
     "status": "Inactive",
     "team": "BAL",
     "years_exp": 0
@@ -1615,7 +1615,7 @@
     "last_name": "Klubnik",
     "player_id": "13303",
     "position": "QB",
-    "search_rank": 392,
+    "search_rank": 393,
     "status": "Active",
     "team": "NYJ",
     "years_exp": 0
@@ -1687,7 +1687,7 @@
     "last_name": "Delp",
     "player_id": "13319",
     "position": "TE",
-    "search_rank": 449,
+    "search_rank": 450,
     "status": "Active",
     "team": "NO",
     "years_exp": 0
@@ -1862,8 +1862,8 @@
     ],
     "first_name": "Skyler",
     "full_name": "Skyler Bell",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "last_name": "Bell",
     "player_id": "13402",
     "position": "WR",
@@ -1903,7 +1903,7 @@
     "last_name": "Thomas",
     "player_id": "13411",
     "position": "WR",
-    "search_rank": 367,
+    "search_rank": 368,
     "status": "Active",
     "team": "CHI",
     "years_exp": 0
@@ -1921,7 +1921,7 @@
     "last_name": "Allen",
     "player_id": "13413",
     "position": "WR",
-    "search_rank": 181,
+    "search_rank": 180,
     "status": "Active",
     "team": "KC",
     "years_exp": 0
@@ -1934,12 +1934,12 @@
     ],
     "first_name": "Kaelon",
     "full_name": "Kaelon Black",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Illness",
+    "injury_status": "Questionable",
     "last_name": "Black",
     "player_id": "13414",
     "position": "RB",
-    "search_rank": 160,
+    "search_rank": 162,
     "status": "Active",
     "team": "SF",
     "years_exp": 0
@@ -1957,7 +1957,7 @@
     "last_name": "Stribling",
     "player_id": "13417",
     "position": "WR",
-    "search_rank": 111,
+    "search_rank": 112,
     "status": "Inactive",
     "team": "SF",
     "years_exp": 0
@@ -1975,7 +1975,7 @@
     "last_name": "Smith",
     "player_id": "1373",
     "position": "QB",
-    "search_rank": 213,
+    "search_rank": 214,
     "status": "Active",
     "team": "NYJ",
     "years_exp": 13
@@ -1993,7 +1993,7 @@
     "last_name": "Kelce",
     "player_id": "1466",
     "position": "TE",
-    "search_rank": 89,
+    "search_rank": 90,
     "status": "Active",
     "team": "KC",
     "years_exp": 13
@@ -2209,7 +2209,7 @@
     "last_name": "Fairbairn",
     "player_id": "3451",
     "position": "K",
-    "search_rank": 129,
+    "search_rank": 128,
     "status": "Active",
     "team": "HOU",
     "years_exp": 10
@@ -2227,7 +2227,7 @@
     "last_name": "Watson",
     "player_id": "4017",
     "position": "QB",
-    "search_rank": 297,
+    "search_rank": 295,
     "status": "Active",
     "team": "CLE",
     "years_exp": 9
@@ -2299,7 +2299,7 @@
     "last_name": "Engram",
     "player_id": "4066",
     "position": "TE",
-    "search_rank": 460,
+    "search_rank": 461,
     "status": "Active",
     "team": "DEN",
     "years_exp": 9
@@ -2317,7 +2317,7 @@
     "last_name": "Elliott",
     "player_id": "4195",
     "position": "K",
-    "search_rank": 215,
+    "search_rank": 214,
     "status": "Active",
     "team": "PHI",
     "years_exp": 9
@@ -2353,7 +2353,7 @@
     "last_name": "Stafford",
     "player_id": "421",
     "position": "QB",
-    "search_rank": 66,
+    "search_rank": 65,
     "status": "Active",
     "team": "LAR",
     "years_exp": 17
@@ -2371,7 +2371,7 @@
     "last_name": "Kittle",
     "player_id": "4217",
     "position": "TE",
-    "search_rank": 81,
+    "search_rank": 80,
     "status": "Active",
     "team": "SF",
     "years_exp": 9
@@ -2461,7 +2461,7 @@
     "last_name": "Darnold",
     "player_id": "4943",
     "position": "QB",
-    "search_rank": 93,
+    "search_rank": 92,
     "status": "Active",
     "team": "SEA",
     "years_exp": 8
@@ -2474,8 +2474,8 @@
     ],
     "first_name": "DJ",
     "full_name": "DJ Moore",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Shoulder",
+    "injury_status": "Out",
     "last_name": "Moore",
     "player_id": "4983",
     "position": "WR",
@@ -2731,7 +2731,7 @@
     "last_name": "Montgomery",
     "player_id": "5892",
     "position": "RB",
-    "search_rank": 41,
+    "search_rank": 43,
     "status": "Active",
     "team": "HOU",
     "years_exp": 7
@@ -2749,7 +2749,7 @@
     "last_name": "McLaurin",
     "player_id": "5927",
     "position": "WR",
-    "search_rank": 56,
+    "search_rank": 55,
     "status": "Active",
     "team": "WAS",
     "years_exp": 7
@@ -3001,7 +3001,7 @@
     "last_name": "Love",
     "player_id": "6804",
     "position": "QB",
-    "search_rank": 68,
+    "search_rank": 69,
     "status": "Active",
     "team": "GB",
     "years_exp": 6
@@ -3199,7 +3199,7 @@
     "last_name": "Jones",
     "player_id": "7527",
     "position": "QB",
-    "search_rank": 405,
+    "search_rank": 406,
     "status": "Active",
     "team": "SF",
     "years_exp": 5
@@ -3271,7 +3271,7 @@
     "last_name": "Pitts",
     "player_id": "7553",
     "position": "TE",
-    "search_rank": 68,
+    "search_rank": 67,
     "status": "Active",
     "team": "ATL",
     "years_exp": 5
@@ -3559,7 +3559,7 @@
     "last_name": "Likely",
     "player_id": "8131",
     "position": "TE",
-    "search_rank": 106,
+    "search_rank": 107,
     "status": "Active",
     "team": "NYG",
     "years_exp": 4
@@ -3662,12 +3662,12 @@
     ],
     "first_name": "Alec",
     "full_name": "Alec Pierce",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Heel",
+    "injury_status": "Questionable",
     "last_name": "Pierce",
     "player_id": "8142",
     "position": "WR",
-    "search_rank": 93,
+    "search_rank": 94,
     "status": "Active",
     "team": "IND",
     "years_exp": 4
@@ -3680,8 +3680,8 @@
     ],
     "first_name": "Chris",
     "full_name": "Chris Olave",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Hamstring",
+    "injury_status": "Questionable",
     "last_name": "Olave",
     "player_id": "8144",
     "position": "WR",
@@ -3811,7 +3811,7 @@
     "last_name": "Willis",
     "player_id": "8161",
     "position": "QB",
-    "search_rank": 121,
+    "search_rank": 119,
     "status": "Active",
     "team": "MIA",
     "years_exp": 4
@@ -4063,7 +4063,7 @@
     "last_name": "Young",
     "player_id": "9228",
     "position": "QB",
-    "search_rank": 132,
+    "search_rank": 133,
     "status": "Active",
     "team": "CAR",
     "years_exp": 3
@@ -4099,7 +4099,7 @@
     "last_name": "Mayer",
     "player_id": "9482",
     "position": "TE",
-    "search_rank": 468,
+    "search_rank": 472,
     "status": "Active",
     "team": "LV",
     "years_exp": 3
@@ -4117,7 +4117,7 @@
     "last_name": "Kraft",
     "player_id": "9484",
     "position": "TE",
-    "search_rank": 65,
+    "search_rank": 63,
     "status": "Active",
     "team": "GB",
     "years_exp": 3
@@ -4135,7 +4135,7 @@
     "last_name": "Wicks",
     "player_id": "9486",
     "position": "WR",
-    "search_rank": 205,
+    "search_rank": 204,
     "status": "Active",
     "team": "PHI",
     "years_exp": 3
@@ -4626,24 +4626,6 @@
     "team": "PHI",
     "years_exp": null
   },
-  "PIT": {
-    "age": null,
-    "college": null,
-    "fantasy_positions": [
-      "DEF"
-    ],
-    "first_name": "Pittsburgh",
-    "full_name": null,
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Steelers",
-    "player_id": "PIT",
-    "position": "DEF",
-    "search_rank": null,
-    "status": null,
-    "team": "PIT",
-    "years_exp": null
-  },
   "SEA": {
     "age": null,
     "college": null,
@@ -4678,6 +4660,24 @@
     "search_rank": null,
     "status": null,
     "team": "SF",
+    "years_exp": null
+  },
+  "TB": {
+    "age": null,
+    "college": null,
+    "fantasy_positions": [
+      "DEF"
+    ],
+    "first_name": "Tampa Bay",
+    "full_name": null,
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Buccaneers",
+    "player_id": "TB",
+    "position": "DEF",
+    "search_rank": null,
+    "status": null,
+    "team": "TB",
     "years_exp": null
   }
 }
