@@ -7474,6 +7474,31 @@
   },
   {
     "adds": {
+      "4147": 1
+    },
+    "consenter_ids": [
+      1
+    ],
+    "created": 1792621931612,
+    "creator": "1003494476792352768",
+    "draft_picks": [],
+    "drops": {
+      "CAR": 1
+    },
+    "leg": 7,
+    "metadata": null,
+    "roster_ids": [
+      1
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1792621931612,
+    "transaction_id": "1418762848036757504",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
       "PIT": 8
     },
     "consenter_ids": [
