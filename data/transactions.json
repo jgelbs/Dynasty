@@ -7474,6 +7474,106 @@
   },
   {
     "adds": {
+      "TEN": 12
+    },
+    "consenter_ids": [
+      12
+    ],
+    "created": 1792764898983,
+    "creator": "1004568537630887936",
+    "draft_picks": [],
+    "drops": {
+      "PHI": 12
+    },
+    "leg": 7,
+    "metadata": null,
+    "roster_ids": [
+      12
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1792764898983,
+    "transaction_id": "1419362496652804096",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
+      "13424": 7
+    },
+    "consenter_ids": [
+      7
+    ],
+    "created": 1792757507739,
+    "creator": "1004571617604800512",
+    "draft_picks": [],
+    "drops": {
+      "8111": 7
+    },
+    "leg": 7,
+    "metadata": null,
+    "roster_ids": [
+      7
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1792757507739,
+    "transaction_id": "1419331495528497152",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
+      "6865": 7
+    },
+    "consenter_ids": [
+      7
+    ],
+    "created": 1792757220634,
+    "creator": "1004571617604800512",
+    "draft_picks": [],
+    "drops": {
+      "13425": 7
+    },
+    "leg": 7,
+    "metadata": null,
+    "roster_ids": [
+      7
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1792757220634,
+    "transaction_id": "1419330291318734848",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
+      "7839": 3
+    },
+    "consenter_ids": [
+      3
+    ],
+    "created": 1792708285569,
+    "creator": "996094171691679744",
+    "draft_picks": [],
+    "drops": {
+      "8259": 3
+    },
+    "leg": 7,
+    "metadata": null,
+    "roster_ids": [
+      3
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1792708285569,
+    "transaction_id": "1419125042779803648",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
       "4147": 1
     },
     "consenter_ids": [
