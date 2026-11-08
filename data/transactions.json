@@ -8973,6 +8973,54 @@
   },
   {
     "adds": {
+      "11539": 11
+    },
+    "consenter_ids": [
+      11
+    ],
+    "created": 1794135769921,
+    "creator": "1004438913294970880",
+    "draft_picks": [],
+    "drops": null,
+    "leg": 9,
+    "metadata": null,
+    "roster_ids": [
+      11
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1794135769921,
+    "transaction_id": "1425112346111578112",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
+      "2020": 10
+    },
+    "consenter_ids": [
+      10
+    ],
+    "created": 1794113373385,
+    "creator": "1004441806446092288",
+    "draft_picks": [],
+    "drops": {
+      "8122": 10
+    },
+    "leg": 9,
+    "metadata": null,
+    "roster_ids": [
+      10
+    ],
+    "settings": null,
+    "status": "complete",
+    "status_updated": 1794113373385,
+    "transaction_id": "1425018408230989824",
+    "type": "free_agent",
+    "waiver_budget": []
+  },
+  {
+    "adds": {
       "3286": 8
     },
     "consenter_ids": [
