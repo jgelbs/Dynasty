@@ -30,7 +30,7 @@
     "last_name": "Rodriguez Jr.",
     "player_id": "10219",
     "position": "RB",
-    "search_rank": 125,
+    "search_rank": 127,
     "status": "Active",
     "team": "JAX",
     "years_exp": 3
@@ -192,7 +192,7 @@
     "last_name": "Williams",
     "player_id": "11560",
     "position": "QB",
-    "search_rank": 21,
+    "search_rank": 22,
     "status": "Active",
     "team": "CHI",
     "years_exp": 2
@@ -444,7 +444,7 @@
     "last_name": "Odunze",
     "player_id": "11620",
     "position": "WR",
-    "search_rank": 65,
+    "search_rank": 63,
     "status": "Active",
     "team": "CHI",
     "years_exp": 2
@@ -642,9 +642,9 @@
     "last_name": "Cousins",
     "player_id": "1166",
     "position": "QB",
-    "search_rank": 262,
+    "search_rank": 263,
     "status": "Active",
-    "team": "LV",
+    "team": "MIN",
     "years_exp": 14
   },
   "11786": {
@@ -714,7 +714,7 @@
     "last_name": "Holani",
     "player_id": "12048",
     "position": "RB",
-    "search_rank": 455,
+    "search_rank": 454,
     "status": "Active",
     "team": "SEA",
     "years_exp": 2
@@ -912,7 +912,7 @@
     "last_name": "Gordon II",
     "player_id": "12495",
     "position": "RB",
-    "search_rank": 450,
+    "search_rank": 449,
     "status": "Active",
     "team": "MIA",
     "years_exp": 1
@@ -1435,7 +1435,7 @@
     "last_name": "Fields",
     "player_id": "13285",
     "position": "WR",
-    "search_rank": 201,
+    "search_rank": 199,
     "status": "Active",
     "team": "NYG",
     "years_exp": 0
@@ -1742,7 +1742,7 @@
     "player_id": "13347",
     "position": "RB",
     "search_rank": 176,
-    "status": "Active",
+    "status": "Inactive",
     "team": "MIN",
     "years_exp": 0
   },
@@ -1790,8 +1790,8 @@
     ],
     "first_name": "Skyler",
     "full_name": "Skyler Bell",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Coach's Decision",
+    "injury_status": "Out",
     "last_name": "Bell",
     "player_id": "13402",
     "position": "WR",
@@ -1849,7 +1849,7 @@
     "last_name": "Black",
     "player_id": "13414",
     "position": "RB",
-    "search_rank": 161,
+    "search_rank": 162,
     "status": "Active",
     "team": "SF",
     "years_exp": 0
@@ -1903,7 +1903,7 @@
     "last_name": "McGowan",
     "player_id": "13424",
     "position": "RB",
-    "search_rank": 377,
+    "search_rank": 378,
     "status": "Active",
     "team": "IND",
     "years_exp": 0
@@ -1977,7 +1977,7 @@
     "position": "WR",
     "search_rank": 180,
     "status": "Active",
-    "team": "IND",
+    "team": "SF",
     "years_exp": 13
   },
   "1945": {
@@ -2065,7 +2065,7 @@
     "last_name": "Winston",
     "player_id": "2306",
     "position": "QB",
-    "search_rank": 468,
+    "search_rank": 469,
     "status": "Active",
     "team": "NYG",
     "years_exp": 11
@@ -2083,7 +2083,7 @@
     "last_name": "Diggs",
     "player_id": "2449",
     "position": "WR",
-    "search_rank": 105,
+    "search_rank": 104,
     "status": "Active",
     "team": "WAS",
     "years_exp": 11
@@ -2101,7 +2101,7 @@
     "last_name": "Waller",
     "player_id": "2505",
     "position": "TE",
-    "search_rank": 355,
+    "search_rank": 357,
     "status": "Active",
     "team": "CAR",
     "years_exp": 11
@@ -2737,7 +2737,7 @@
     "years_exp": 7
   },
   "5854": {
-    "age": 29,
+    "age": 30,
     "college": "Missouri",
     "fantasy_positions": [
       "QB"
@@ -2785,7 +2785,7 @@
     "last_name": "Jones",
     "player_id": "5870",
     "position": "QB",
-    "search_rank": 132,
+    "search_rank": 133,
     "status": "Active",
     "team": "IND",
     "years_exp": 7
@@ -3505,7 +3505,7 @@
     "last_name": "McPherson",
     "player_id": "7839",
     "position": "K",
-    "search_rank": 153,
+    "search_rank": 155,
     "status": "Active",
     "team": "CIN",
     "years_exp": 5
@@ -3950,8 +3950,8 @@
     ],
     "first_name": "Chig",
     "full_name": "Chig Okonkwo",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Hip",
+    "injury_status": "Questionable",
     "last_name": "Okonkwo",
     "player_id": "8210",
     "position": "TE",
@@ -4117,7 +4117,7 @@
     "last_name": "Mayer",
     "player_id": "9482",
     "position": "TE",
-    "search_rank": 421,
+    "search_rank": 423,
     "status": "Active",
     "team": "LV",
     "years_exp": 3
@@ -4208,7 +4208,7 @@
     "player_id": "9493",
     "position": "WR",
     "search_rank": 4,
-    "status": "Active",
+    "status": "Inactive",
     "team": "LAR",
     "years_exp": 3
   },
@@ -4243,7 +4243,7 @@
     "last_name": "Douglas",
     "player_id": "9501",
     "position": "WR",
-    "search_rank": 489,
+    "search_rank": 487,
     "status": "Active",
     "team": "NE",
     "years_exp": 3
@@ -4333,7 +4333,7 @@
     "last_name": "Rodgers",
     "player_id": "96",
     "position": "QB",
-    "search_rank": 186,
+    "search_rank": 187,
     "status": "Active",
     "team": "PIT",
     "years_exp": 21
