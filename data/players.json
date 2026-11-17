@@ -138,7 +138,7 @@
     "last_name": "Aubrey",
     "player_id": "11533",
     "position": "K",
-    "search_rank": 89,
+    "search_rank": 91,
     "status": "Active",
     "team": "DAL",
     "years_exp": 3
@@ -282,7 +282,7 @@
     "last_name": "Daniels",
     "player_id": "11566",
     "position": "QB",
-    "search_rank": 22,
+    "search_rank": 21,
     "status": "Active",
     "team": "WAS",
     "years_exp": 2
@@ -714,7 +714,7 @@
     "last_name": "Little",
     "player_id": "11786",
     "position": "K",
-    "search_rank": 131,
+    "search_rank": 133,
     "status": "Active",
     "team": "JAX",
     "years_exp": 2
@@ -822,7 +822,7 @@
     "last_name": "Skattebo",
     "player_id": "12481",
     "position": "RB",
-    "search_rank": 36,
+    "search_rank": 37,
     "status": "Active",
     "team": "NYG",
     "years_exp": 1
@@ -943,8 +943,8 @@
     ],
     "first_name": "Oronde",
     "full_name": "Oronde Gadsden",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Eye",
+    "injury_status": "Questionable",
     "last_name": "Gadsden",
     "player_id": "12493",
     "position": "TE",
@@ -1435,7 +1435,7 @@
     "last_name": "Beck",
     "player_id": "13272",
     "position": "QB",
-    "search_rank": 288,
+    "search_rank": 286,
     "status": "Active",
     "team": "ARI",
     "years_exp": 0
@@ -1633,7 +1633,7 @@
     "last_name": "Lemon",
     "player_id": "13294",
     "position": "WR",
-    "search_rank": 89,
+    "search_rank": 91,
     "status": "Active",
     "team": "PHI",
     "years_exp": 0
@@ -1651,7 +1651,7 @@
     "last_name": "Douglas",
     "player_id": "13296",
     "position": "WR",
-    "search_rank": 197,
+    "search_rank": 199,
     "status": "Active",
     "team": "MIA",
     "years_exp": 0
@@ -1726,24 +1726,6 @@
     "search_rank": 197,
     "status": "Active",
     "team": "MIA",
-    "years_exp": 0
-  },
-  "13317": {
-    "age": 22,
-    "college": "Georgia State",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Ted",
-    "full_name": "Ted Hurst III",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Hurst III",
-    "player_id": "13317",
-    "position": "WR",
-    "search_rank": 196,
-    "status": "Active",
-    "team": "TB",
     "years_exp": 0
   },
   "13320": {
@@ -1921,7 +1903,7 @@
     "last_name": "Black",
     "player_id": "13414",
     "position": "RB",
-    "search_rank": 162,
+    "search_rank": 161,
     "status": "Active",
     "team": "SF",
     "years_exp": 0
@@ -1957,7 +1939,7 @@
     "last_name": "Raridon",
     "player_id": "13421",
     "position": "TE",
-    "search_rank": 364,
+    "search_rank": 363,
     "status": "Active",
     "team": "NE",
     "years_exp": 0
@@ -1975,7 +1957,7 @@
     "last_name": "McGowan",
     "player_id": "13424",
     "position": "RB",
-    "search_rank": 380,
+    "search_rank": 377,
     "status": "Active",
     "team": "IND",
     "years_exp": 0
@@ -2155,7 +2137,7 @@
     "last_name": "Waller",
     "player_id": "2505",
     "position": "TE",
-    "search_rank": 356,
+    "search_rank": 355,
     "status": "Active",
     "team": "CAR",
     "years_exp": 11
@@ -2605,7 +2587,7 @@
     "last_name": "Gesicki",
     "player_id": "4993",
     "position": "TE",
-    "search_rank": 399,
+    "search_rank": 398,
     "status": "Active",
     "team": "CIN",
     "years_exp": 8
@@ -2934,24 +2916,6 @@
     "team": "LV",
     "years_exp": 7
   },
-  "6130": {
-    "age": 29,
-    "college": "Florida Atlantic",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "Devin",
-    "full_name": "Devin Singletary",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Singletary",
-    "player_id": "6130",
-    "position": "RB",
-    "search_rank": 660,
-    "status": "Active",
-    "team": "NYG",
-    "years_exp": 7
-  },
   "6650": {
     "age": 30,
     "college": "Illinois",
@@ -3037,7 +3001,7 @@
     "last_name": "Jefferson",
     "player_id": "6794",
     "position": "WR",
-    "search_rank": 11,
+    "search_rank": 12,
     "status": "Active",
     "team": "MIN",
     "years_exp": 6
@@ -3091,7 +3055,7 @@
     "last_name": "Love",
     "player_id": "6804",
     "position": "QB",
-    "search_rank": 65,
+    "search_rank": 67,
     "status": "Active",
     "team": "GB",
     "years_exp": 6
@@ -3505,7 +3469,7 @@
     "last_name": "McPherson",
     "player_id": "7839",
     "position": "K",
-    "search_rank": 155,
+    "search_rank": 153,
     "status": "Active",
     "team": "CIN",
     "years_exp": 5
@@ -3829,7 +3793,7 @@
     "last_name": "Walker III",
     "player_id": "8151",
     "position": "RB",
-    "search_rank": 17,
+    "search_rank": 19,
     "status": "Active",
     "team": "KC",
     "years_exp": 4
@@ -4104,24 +4068,6 @@
     "team": "CAR",
     "years_exp": 3
   },
-  "9230": {
-    "age": 26,
-    "college": "Stanford",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Tanner",
-    "full_name": "Tanner McKee",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "McKee",
-    "player_id": "9230",
-    "position": "QB",
-    "search_rank": 677,
-    "status": "Active",
-    "team": "PHI",
-    "years_exp": 3
-  },
   "9479": {
     "age": 25,
     "college": "Georgia",
@@ -4171,7 +4117,7 @@
     "last_name": "Mayer",
     "player_id": "9482",
     "position": "TE",
-    "search_rank": 422,
+    "search_rank": 421,
     "status": "Active",
     "team": "LV",
     "years_exp": 3
@@ -4243,7 +4189,7 @@
     "last_name": "Smith-Njigba",
     "player_id": "9488",
     "position": "WR",
-    "search_rank": 5,
+    "search_rank": 7,
     "status": "Active",
     "team": "SEA",
     "years_exp": 3
@@ -4351,7 +4297,7 @@
     "last_name": "Rodgers",
     "player_id": "96",
     "position": "QB",
-    "search_rank": 185,
+    "search_rank": 187,
     "status": "Active",
     "team": "PIT",
     "years_exp": 21
