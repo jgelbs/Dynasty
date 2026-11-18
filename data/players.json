@@ -25,8 +25,8 @@
     ],
     "first_name": "Xavier",
     "full_name": "Xavier Hutchinson",
-    "injury_body_part": "Concussion",
-    "injury_status": "Questionable",
+    "injury_body_part": null,
+    "injury_status": null,
     "last_name": "Hutchinson",
     "player_id": "10218",
     "position": "WR",
@@ -48,7 +48,7 @@
     "last_name": "Rodriguez Jr.",
     "player_id": "10219",
     "position": "RB",
-    "search_rank": 125,
+    "search_rank": 127,
     "status": "Active",
     "team": "JAX",
     "years_exp": 3
@@ -125,6 +125,24 @@
     "team": "DET",
     "years_exp": 3
   },
+  "11199": {
+    "age": 27,
+    "college": "TCU",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Emari",
+    "full_name": "Emari Demercado",
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Demercado",
+    "player_id": "11199",
+    "position": "RB",
+    "search_rank": 502,
+    "status": "Active",
+    "team": "HOU",
+    "years_exp": 3
+  },
   "11533": {
     "age": 31,
     "college": "Notre Dame",
@@ -198,7 +216,7 @@
     "years_exp": 2
   },
   "11560": {
-    "age": 24,
+    "age": 25,
     "college": "USC",
     "fantasy_positions": [
       "QB"
@@ -210,7 +228,7 @@
     "last_name": "Williams",
     "player_id": "11560",
     "position": "QB",
-    "search_rank": 22,
+    "search_rank": 23,
     "status": "Active",
     "team": "CHI",
     "years_exp": 2
@@ -228,7 +246,7 @@
     "last_name": "Nix",
     "player_id": "11563",
     "position": "QB",
-    "search_rank": 45,
+    "search_rank": 46,
     "status": "Active",
     "team": "DEN",
     "years_exp": 2
@@ -282,7 +300,7 @@
     "last_name": "Daniels",
     "player_id": "11566",
     "position": "QB",
-    "search_rank": 21,
+    "search_rank": 22,
     "status": "Active",
     "team": "WAS",
     "years_exp": 2
@@ -321,24 +339,6 @@
     "search_rank": 190,
     "status": "Active",
     "team": "NO",
-    "years_exp": 2
-  },
-  "11581": {
-    "age": 25,
-    "college": "USC",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "MarShawn",
-    "full_name": "MarShawn Lloyd",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Lloyd",
-    "player_id": "11581",
-    "position": "RB",
-    "search_rank": 98,
-    "status": "Active",
-    "team": "GB",
     "years_exp": 2
   },
   "11583": {
@@ -395,22 +395,22 @@
     "team": "LAR",
     "years_exp": 2
   },
-  "11603": {
-    "age": 24,
-    "college": "Michigan",
+  "11593": {
+    "age": 26,
+    "college": "Minnesota",
     "fantasy_positions": [
       "TE"
     ],
-    "first_name": "AJ",
-    "full_name": "AJ Barner",
+    "first_name": "Brevyn",
+    "full_name": "Brevyn Spann-Ford",
     "injury_body_part": null,
     "injury_status": null,
-    "last_name": "Barner",
-    "player_id": "11603",
+    "last_name": "Spann-Ford",
+    "player_id": "11593",
     "position": "TE",
-    "search_rank": 126,
+    "search_rank": 634,
     "status": "Active",
-    "team": "SEA",
+    "team": "DAL",
     "years_exp": 2
   },
   "11604": {
@@ -422,7 +422,7 @@
     "first_name": "Brock",
     "full_name": "Brock Bowers",
     "injury_body_part": "Ankle",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "last_name": "Bowers",
     "player_id": "11604",
     "position": "TE",
@@ -480,7 +480,7 @@
     "last_name": "Odunze",
     "player_id": "11620",
     "position": "WR",
-    "search_rank": 65,
+    "search_rank": 63,
     "status": "Active",
     "team": "CHI",
     "years_exp": 2
@@ -530,7 +530,7 @@
     "first_name": "Marvin",
     "full_name": "Marvin Harrison Jr.",
     "injury_body_part": "Hamstring",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "last_name": "Harrison Jr.",
     "player_id": "11628",
     "position": "WR",
@@ -584,7 +584,7 @@
     "first_name": "Ladd",
     "full_name": "Ladd McConkey",
     "injury_body_part": "Back",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "last_name": "McConkey",
     "player_id": "11635",
     "position": "WR",
@@ -678,7 +678,7 @@
     "last_name": "Cousins",
     "player_id": "1166",
     "position": "QB",
-    "search_rank": 261,
+    "search_rank": 263,
     "status": "Active",
     "team": "MIN",
     "years_exp": 14
@@ -800,7 +800,7 @@
     "first_name": "Woody",
     "full_name": "Woody Marks",
     "injury_body_part": "Concussion",
-    "injury_status": "Out",
+    "injury_status": "Doubtful",
     "last_name": "Marks",
     "player_id": "12474",
     "position": "RB",
@@ -827,22 +827,22 @@
     "team": "NYG",
     "years_exp": 1
   },
-  "12482": {
-    "age": 24,
-    "college": "TCU",
+  "12484": {
+    "age": 23,
+    "college": "Iowa State",
     "fantasy_positions": [
       "WR"
     ],
-    "first_name": "Savion",
-    "full_name": "Savion Williams",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Williams",
-    "player_id": "12482",
+    "first_name": "Jayden",
+    "full_name": "Jayden Higgins",
+    "injury_body_part": "Knee - ACL",
+    "injury_status": "IR",
+    "last_name": "Higgins",
+    "player_id": "12484",
     "position": "WR",
-    "search_rank": 679,
-    "status": "Active",
-    "team": "GB",
+    "search_rank": 126,
+    "status": "Inactive",
+    "team": "HOU",
     "years_exp": 1
   },
   "12487": {
@@ -943,8 +943,8 @@
     ],
     "first_name": "Oronde",
     "full_name": "Oronde Gadsden",
-    "injury_body_part": "Eye",
-    "injury_status": "Questionable",
+    "injury_body_part": null,
+    "injury_status": null,
     "last_name": "Gadsden",
     "player_id": "12493",
     "position": "TE",
@@ -987,6 +987,24 @@
     "search_rank": 448,
     "status": "Active",
     "team": "MIA",
+    "years_exp": 1
+  },
+  "12499": {
+    "age": 23,
+    "college": "Stanford",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Elic",
+    "full_name": "Elic Ayomanor",
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Ayomanor",
+    "player_id": "12499",
+    "position": "WR",
+    "search_rank": 185,
+    "status": "Active",
+    "team": "TEN",
     "years_exp": 1
   },
   "12501": {
@@ -1195,8 +1213,8 @@
     ],
     "first_name": "Luther",
     "full_name": "Luther Burden III",
-    "injury_body_part": "Undisclosed",
-    "injury_status": "Questionable",
+    "injury_body_part": null,
+    "injury_status": null,
     "last_name": "Burden III",
     "player_id": "12519",
     "position": "WR",
@@ -1221,6 +1239,24 @@
     "search_rank": 116,
     "status": "Active",
     "team": "TEN",
+    "years_exp": 1
+  },
+  "12524": {
+    "age": 24,
+    "college": "Colorado",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Shedeur",
+    "full_name": "Shedeur Sanders",
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Sanders",
+    "player_id": "12524",
+    "position": "QB",
+    "search_rank": 227,
+    "status": "Active",
+    "team": "CLE",
     "years_exp": 1
   },
   "12526": {
@@ -1323,31 +1359,13 @@
     "first_name": "Kyle",
     "full_name": "Kyle Monangai",
     "injury_body_part": "Toe",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "last_name": "Monangai",
     "player_id": "12534",
     "position": "RB",
     "search_rank": 61,
     "status": "Active",
     "team": "CHI",
-    "years_exp": 1
-  },
-  "12540": {
-    "age": 24,
-    "college": "Florida",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Chimere",
-    "full_name": "Chimere Dike",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Dike",
-    "player_id": "12540",
-    "position": "WR",
-    "search_rank": 175,
-    "status": "Active",
-    "team": "TEN",
     "years_exp": 1
   },
   "12545": {
@@ -1363,27 +1381,9 @@
     "last_name": "Shough",
     "player_id": "12545",
     "position": "QB",
-    "search_rank": 87,
+    "search_rank": 88,
     "status": "Active",
     "team": "NO",
-    "years_exp": 1
-  },
-  "12634": {
-    "age": 24,
-    "college": "Ole Miss",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Jordan",
-    "full_name": "Jordan Watkins",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Watkins",
-    "player_id": "12634",
-    "position": "WR",
-    "search_rank": 999,
-    "status": "Active",
-    "team": "SF",
     "years_exp": 1
   },
   "12718": {
@@ -1417,7 +1417,7 @@
     "last_name": "Mendoza",
     "player_id": "13269",
     "position": "QB",
-    "search_rank": 110,
+    "search_rank": 109,
     "status": "Active",
     "team": "LV",
     "years_exp": 0
@@ -1435,7 +1435,7 @@
     "last_name": "Beck",
     "player_id": "13272",
     "position": "QB",
-    "search_rank": 286,
+    "search_rank": 288,
     "status": "Active",
     "team": "ARI",
     "years_exp": 0
@@ -1485,7 +1485,7 @@
     "first_name": "Omar",
     "full_name": "Omar Cooper Jr.",
     "injury_body_part": "Ankle",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "last_name": "Cooper Jr.",
     "player_id": "13276",
     "position": "WR",
@@ -1503,7 +1503,7 @@
     "first_name": "Carnell",
     "full_name": "Carnell Tate",
     "injury_body_part": "Shoulder",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "last_name": "Tate",
     "player_id": "13279",
     "position": "WR",
@@ -1543,7 +1543,7 @@
     "last_name": "Fields",
     "player_id": "13285",
     "position": "WR",
-    "search_rank": 201,
+    "search_rank": 199,
     "status": "Active",
     "team": "NYG",
     "years_exp": 0
@@ -1592,8 +1592,8 @@
     ],
     "first_name": "Nicholas",
     "full_name": "Nicholas Singleton",
-    "injury_body_part": "Coach's Decision",
-    "injury_status": "Out",
+    "injury_body_part": null,
+    "injury_status": null,
     "last_name": "Singleton",
     "player_id": "13288",
     "position": "RB",
@@ -1692,6 +1692,24 @@
     "team": "WAS",
     "years_exp": 0
   },
+  "13303": {
+    "age": 23,
+    "college": "Clemson",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Cade",
+    "full_name": "Cade Klubnik",
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Klubnik",
+    "player_id": "13303",
+    "position": "QB",
+    "search_rank": 395,
+    "status": "Active",
+    "team": "NYJ",
+    "years_exp": 0
+  },
   "13305": {
     "age": 23,
     "college": "Arkansas",
@@ -1719,7 +1737,7 @@
     "first_name": "Chris",
     "full_name": "Chris Bell",
     "injury_body_part": "Knee",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "last_name": "Bell",
     "player_id": "13311",
     "position": "WR",
@@ -1836,24 +1854,6 @@
     "team": "PHI",
     "years_exp": 0
   },
-  "13353": {
-    "age": 23,
-    "college": "Tennessee",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Chris",
-    "full_name": "Chris Brazzell II",
-    "injury_body_part": "Knee",
-    "injury_status": "IR",
-    "last_name": "Brazzell II",
-    "player_id": "13353",
-    "position": "WR",
-    "search_rank": 400,
-    "status": "Inactive",
-    "team": "CAR",
-    "years_exp": 0
-  },
   "13402": {
     "age": 24,
     "college": "UConn",
@@ -1867,7 +1867,7 @@
     "last_name": "Bell",
     "player_id": "13402",
     "position": "WR",
-    "search_rank": 390,
+    "search_rank": 391,
     "status": "Active",
     "team": "BUF",
     "years_exp": 0
@@ -1903,7 +1903,7 @@
     "last_name": "Black",
     "player_id": "13414",
     "position": "RB",
-    "search_rank": 161,
+    "search_rank": 162,
     "status": "Active",
     "team": "SF",
     "years_exp": 0
@@ -1939,7 +1939,7 @@
     "last_name": "Raridon",
     "player_id": "13421",
     "position": "TE",
-    "search_rank": 363,
+    "search_rank": 364,
     "status": "Active",
     "team": "NE",
     "years_exp": 0
@@ -1957,9 +1957,27 @@
     "last_name": "McGowan",
     "player_id": "13424",
     "position": "RB",
-    "search_rank": 377,
+    "search_rank": 379,
     "status": "Active",
     "team": "IND",
+    "years_exp": 0
+  },
+  "13425": {
+    "age": 24,
+    "college": "Kansas",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Jalon",
+    "full_name": "Jalon Daniels",
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Daniels",
+    "player_id": "13425",
+    "position": "QB",
+    "search_rank": 647,
+    "status": "Active",
+    "team": "TB",
     "years_exp": 0
   },
   "1373": {
@@ -1971,32 +1989,14 @@
     "first_name": "Geno",
     "full_name": "Geno Smith",
     "injury_body_part": "Ankle",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "last_name": "Smith",
     "player_id": "1373",
     "position": "QB",
-    "search_rank": 209,
+    "search_rank": 211,
     "status": "Active",
     "team": "NYJ",
     "years_exp": 13
-  },
-  "13833": {
-    "age": 23,
-    "college": "Michigan",
-    "fantasy_positions": [
-      "K"
-    ],
-    "first_name": "Dominic",
-    "full_name": "Dominic Zvada",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Zvada",
-    "player_id": "13833",
-    "position": "K",
-    "search_rank": 330,
-    "status": "Active",
-    "team": "NYG",
-    "years_exp": 0
   },
   "13968": {
     "age": 22,
@@ -2024,8 +2024,8 @@
     ],
     "first_name": "Travis",
     "full_name": "Travis Kelce",
-    "injury_body_part": "Ankle",
-    "injury_status": "Questionable",
+    "injury_body_part": null,
+    "injury_status": null,
     "last_name": "Kelce",
     "player_id": "1466",
     "position": "TE",
@@ -2051,6 +2051,24 @@
     "status": "Active",
     "team": "SF",
     "years_exp": 13
+  },
+  "2020": {
+    "age": 35,
+    "college": "Tulane",
+    "fantasy_positions": [
+      "K"
+    ],
+    "first_name": "Cairo",
+    "full_name": "Cairo Santos",
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Santos",
+    "player_id": "2020",
+    "position": "K",
+    "search_rank": 190,
+    "status": "Active",
+    "team": "CHI",
+    "years_exp": 12
   },
   "2133": {
     "age": 33,
@@ -2079,7 +2097,7 @@
     "first_name": "Mike",
     "full_name": "Mike Evans",
     "injury_body_part": "Achilles",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "last_name": "Evans",
     "player_id": "2216",
     "position": "WR",
@@ -2119,7 +2137,7 @@
     "last_name": "Diggs",
     "player_id": "2449",
     "position": "WR",
-    "search_rank": 105,
+    "search_rank": 104,
     "status": "Active",
     "team": "WAS",
     "years_exp": 11
@@ -2132,12 +2150,12 @@
     ],
     "first_name": "Darren",
     "full_name": "Darren Waller",
-    "injury_body_part": null,
-    "injury_status": null,
+    "injury_body_part": "Knee",
+    "injury_status": "Questionable",
     "last_name": "Waller",
     "player_id": "2505",
     "position": "TE",
-    "search_rank": 355,
+    "search_rank": 357,
     "status": "Active",
     "team": "CAR",
     "years_exp": 11
@@ -2277,7 +2295,7 @@
     "first_name": "Tyreek",
     "full_name": "Tyreek Hill",
     "injury_body_part": "Knee - ACL",
-    "injury_status": "",
+    "injury_status": "Questionable",
     "last_name": "Hill",
     "player_id": "3321",
     "position": "WR",
@@ -2443,7 +2461,7 @@
     "last_name": "Stafford",
     "player_id": "421",
     "position": "QB",
-    "search_rank": 65,
+    "search_rank": 66,
     "status": "Active",
     "team": "LAR",
     "years_exp": 17
@@ -2515,7 +2533,7 @@
     "last_name": "Mayfield",
     "player_id": "4892",
     "position": "QB",
-    "search_rank": 77,
+    "search_rank": 76,
     "status": "Active",
     "team": "TB",
     "years_exp": 8
@@ -2533,7 +2551,7 @@
     "last_name": "Darnold",
     "player_id": "4943",
     "position": "QB",
-    "search_rank": 92,
+    "search_rank": 93,
     "status": "Active",
     "team": "SEA",
     "years_exp": 8
@@ -2673,7 +2691,7 @@
     "first_name": "T.J.",
     "full_name": "T.J. Hockenson",
     "injury_body_part": "Wrist",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "last_name": "Hockenson",
     "player_id": "5844",
     "position": "TE",
@@ -2816,8 +2834,8 @@
     ],
     "first_name": "David",
     "full_name": "David Montgomery",
-    "injury_body_part": "Groin",
-    "injury_status": "Out",
+    "injury_body_part": null,
+    "injury_status": null,
     "last_name": "Montgomery",
     "player_id": "5892",
     "position": "RB",
@@ -3019,7 +3037,7 @@
     "last_name": "Herbert",
     "player_id": "6797",
     "position": "QB",
-    "search_rank": 34,
+    "search_rank": 33,
     "status": "Active",
     "team": "LAC",
     "years_exp": 6
@@ -3055,7 +3073,7 @@
     "last_name": "Love",
     "player_id": "6804",
     "position": "QB",
-    "search_rank": 67,
+    "search_rank": 66,
     "status": "Active",
     "team": "GB",
     "years_exp": 6
@@ -3094,6 +3112,24 @@
     "search_rank": 4,
     "status": "Active",
     "team": "IND",
+    "years_exp": 6
+  },
+  "6819": {
+    "age": 29,
+    "college": "USC",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Michael",
+    "full_name": "Michael Pittman Jr.",
+    "injury_body_part": "Foot",
+    "injury_status": "IR",
+    "last_name": "Pittman Jr.",
+    "player_id": "6819",
+    "position": "WR",
+    "search_rank": 106,
+    "status": "Inactive",
+    "team": "PIT",
     "years_exp": 6
   },
   "6865": {
@@ -3195,7 +3231,7 @@
     "first_name": "Jauan",
     "full_name": "Jauan Jennings",
     "injury_body_part": "Calf",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "last_name": "Jennings",
     "player_id": "7049",
     "position": "WR",
@@ -3217,7 +3253,7 @@
     "last_name": "Lawrence",
     "player_id": "7523",
     "position": "QB",
-    "search_rank": 41,
+    "search_rank": 42,
     "status": "Active",
     "team": "JAX",
     "years_exp": 5
@@ -3231,7 +3267,7 @@
     "first_name": "DeVonta",
     "full_name": "DeVonta Smith",
     "injury_body_part": "Hamstring",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "last_name": "Smith",
     "player_id": "7525",
     "position": "WR",
@@ -3248,8 +3284,8 @@
     ],
     "first_name": "Jaylen",
     "full_name": "Jaylen Waddle",
-    "injury_body_part": "Head",
-    "injury_status": "Out",
+    "injury_body_part": "Concussion",
+    "injury_status": "Questionable",
     "last_name": "Waddle",
     "player_id": "7526",
     "position": "WR",
@@ -3469,7 +3505,7 @@
     "last_name": "McPherson",
     "player_id": "7839",
     "position": "K",
-    "search_rank": 153,
+    "search_rank": 155,
     "status": "Active",
     "team": "CIN",
     "years_exp": 5
@@ -3492,6 +3528,24 @@
     "team": "DAL",
     "years_exp": 4
   },
+  "8111": {
+    "age": 27,
+    "college": "Washington",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Cade",
+    "full_name": "Cade Otton",
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Otton",
+    "player_id": "8111",
+    "position": "TE",
+    "search_rank": 148,
+    "status": "Active",
+    "team": "TB",
+    "years_exp": 4
+  },
   "8112": {
     "age": 25,
     "college": "USC",
@@ -3508,24 +3562,6 @@
     "search_rank": 19,
     "status": "Active",
     "team": "ATL",
-    "years_exp": 4
-  },
-  "8116": {
-    "age": 27,
-    "college": "South Dakota State",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "Pierre",
-    "full_name": "Pierre Strong Jr.",
-    "injury_body_part": "Coach's Decision",
-    "injury_status": "Out",
-    "last_name": "Strong Jr.",
-    "player_id": "8116",
-    "position": "RB",
-    "search_rank": 631,
-    "status": "Active",
-    "team": "GB",
     "years_exp": 4
   },
   "8122": {
@@ -3555,12 +3591,12 @@
     "first_name": "Wan'Dale",
     "full_name": "Wan'Dale Robinson",
     "injury_body_part": "Ankle",
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "last_name": "Robinson",
     "player_id": "8126",
     "position": "WR",
     "search_rank": 105,
-    "status": "Active",
+    "status": "Inactive",
     "team": "TEN",
     "years_exp": 4
   },
@@ -3789,7 +3825,7 @@
     "first_name": "Kenneth",
     "full_name": "Kenneth Walker III",
     "injury_body_part": "Groin",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "last_name": "Walker III",
     "player_id": "8151",
     "position": "RB",
@@ -3919,7 +3955,7 @@
     "last_name": "Purdy",
     "player_id": "8183",
     "position": "QB",
-    "search_rank": 55,
+    "search_rank": 56,
     "status": "Active",
     "team": "SF",
     "years_exp": 4
@@ -3950,8 +3986,8 @@
     ],
     "first_name": "Chig",
     "full_name": "Chig Okonkwo",
-    "injury_body_part": "Back",
-    "injury_status": "Questionable",
+    "injury_body_part": null,
+    "injury_status": null,
     "last_name": "Okonkwo",
     "player_id": "8210",
     "position": "TE",
@@ -4068,24 +4104,6 @@
     "team": "CAR",
     "years_exp": 3
   },
-  "9479": {
-    "age": 25,
-    "college": "Georgia",
-    "fantasy_positions": [
-      "TE"
-    ],
-    "first_name": "Darnell",
-    "full_name": "Darnell Washington",
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Washington",
-    "player_id": "9479",
-    "position": "TE",
-    "search_rank": 470,
-    "status": "Active",
-    "team": "PIT",
-    "years_exp": 3
-  },
   "9480": {
     "age": 25,
     "college": "Penn State",
@@ -4117,7 +4135,7 @@
     "last_name": "Mayer",
     "player_id": "9482",
     "position": "TE",
-    "search_rank": 421,
+    "search_rank": 422,
     "status": "Active",
     "team": "LV",
     "years_exp": 3
@@ -4135,7 +4153,7 @@
     "last_name": "Kraft",
     "player_id": "9484",
     "position": "TE",
-    "search_rank": 65,
+    "search_rank": 64,
     "status": "Active",
     "team": "GB",
     "years_exp": 3
@@ -4149,7 +4167,7 @@
     "first_name": "Dontayvion",
     "full_name": "Dontayvion Wicks",
     "injury_body_part": "Ankle",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "last_name": "Wicks",
     "player_id": "9486",
     "position": "WR",
@@ -4266,6 +4284,24 @@
     "team": "HOU",
     "years_exp": 3
   },
+  "9508": {
+    "age": 25,
+    "college": "Tulane",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Tyjae",
+    "full_name": "Tyjae Spears",
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Spears",
+    "player_id": "9508",
+    "position": "RB",
+    "search_rank": 122,
+    "status": "Active",
+    "team": "TEN",
+    "years_exp": 3
+  },
   "9509": {
     "age": 24,
     "college": "Texas",
@@ -4369,7 +4405,7 @@
     "last_name": "Stroud",
     "player_id": "9758",
     "position": "QB",
-    "search_rank": 102,
+    "search_rank": 101,
     "status": "Active",
     "team": "HOU",
     "years_exp": 3
@@ -4408,6 +4444,42 @@
     "search_rank": null,
     "status": null,
     "team": "BAL",
+    "years_exp": null
+  },
+  "BUF": {
+    "age": null,
+    "college": null,
+    "fantasy_positions": [
+      "DEF"
+    ],
+    "first_name": "Buffalo",
+    "full_name": null,
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Bills",
+    "player_id": "BUF",
+    "position": "DEF",
+    "search_rank": null,
+    "status": null,
+    "team": "BUF",
+    "years_exp": null
+  },
+  "CHI": {
+    "age": null,
+    "college": null,
+    "fantasy_positions": [
+      "DEF"
+    ],
+    "first_name": "Chicago",
+    "full_name": null,
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Bears",
+    "player_id": "CHI",
+    "position": "DEF",
+    "search_rank": null,
+    "status": null,
+    "team": "CHI",
     "years_exp": null
   },
   "CIN": {
@@ -4464,24 +4536,6 @@
     "team": "DEN",
     "years_exp": null
   },
-  "GB": {
-    "age": null,
-    "college": null,
-    "fantasy_positions": [
-      "DEF"
-    ],
-    "first_name": "Green Bay",
-    "full_name": null,
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Packers",
-    "player_id": "GB",
-    "position": "DEF",
-    "search_rank": null,
-    "status": null,
-    "team": "GB",
-    "years_exp": null
-  },
   "HOU": {
     "age": null,
     "college": null,
@@ -4498,24 +4552,6 @@
     "search_rank": null,
     "status": null,
     "team": "HOU",
-    "years_exp": null
-  },
-  "IND": {
-    "age": null,
-    "college": null,
-    "fantasy_positions": [
-      "DEF"
-    ],
-    "first_name": "Indianapolis",
-    "full_name": null,
-    "injury_body_part": null,
-    "injury_status": null,
-    "last_name": "Colts",
-    "player_id": "IND",
-    "position": "DEF",
-    "search_rank": null,
-    "status": null,
-    "team": "IND",
     "years_exp": null
   },
   "JAX": {
@@ -4552,6 +4588,24 @@
     "search_rank": null,
     "status": null,
     "team": "KC",
+    "years_exp": null
+  },
+  "LAC": {
+    "age": null,
+    "college": null,
+    "fantasy_positions": [
+      "DEF"
+    ],
+    "first_name": "Los Angeles",
+    "full_name": null,
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Chargers",
+    "player_id": "LAC",
+    "position": "DEF",
+    "search_rank": null,
+    "status": null,
+    "team": "LAC",
     "years_exp": null
   },
   "LAR": {
@@ -4642,6 +4696,24 @@
     "search_rank": null,
     "status": null,
     "team": "SEA",
+    "years_exp": null
+  },
+  "TB": {
+    "age": null,
+    "college": null,
+    "fantasy_positions": [
+      "DEF"
+    ],
+    "first_name": "Tampa Bay",
+    "full_name": null,
+    "injury_body_part": null,
+    "injury_status": null,
+    "last_name": "Buccaneers",
+    "player_id": "TB",
+    "position": "DEF",
+    "search_rank": null,
+    "status": null,
+    "team": "TB",
     "years_exp": null
   }
 }
